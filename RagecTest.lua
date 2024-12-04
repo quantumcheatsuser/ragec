@@ -1,5 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/quantumcheatsuser/ragec/refs/heads/main/actorbypass.lua"))()
-wait(25)
+wait(5)
 
 
 if getgenv().FurryHBELoaded ~= nil then
